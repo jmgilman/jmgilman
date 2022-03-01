@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning development best practices
 - 💬 Ask me about my homelab
 - 📫 How to find me:
-  - [LinkedIn](https://www.linkedin.com/in/joshua-g-29083b5b/)
+  - [LinkedIn](https://www.linkedin.com/in/jmgilman)
   - [Keybase](https://keybase.io/jmgilman)
   - [My Blog](https://blog.jmgilman.com/)
 

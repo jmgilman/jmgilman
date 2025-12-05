@@ -10,8 +10,7 @@
 <p align="center">
   <!-- Optional badges – customize or remove -->
   <a href="https://jmgilman.com">Website</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
-  <a href="mailto:YOUR.EMAIL@EXAMPLE.COM">Email</a>
+  <a href="https://www.linkedin.com/in/jmgilman/">LinkedIn</a> •
 </p>
 
 ---

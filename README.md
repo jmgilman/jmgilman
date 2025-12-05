@@ -10,7 +10,7 @@
 <p align="center">
   <!-- Optional badges – customize or remove -->
   <a href="https://jmgilman.com">Website</a> •
-  <a href="https://www.linkedin.com/in/jmgilman/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/jmgilman/">LinkedIn</a>
 </p>
 
 ---

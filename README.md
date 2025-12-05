@@ -83,7 +83,7 @@ If you’re using any of my projects and run into issues or have ideas, opening 
 
 The best ways to get in touch:
 
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- **LinkedIn:** [linkedin.com/in/jmgilman]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/jmgilman/))
 - **Website:** [jmgilman.com](https://jmgilman.com)
 
 I’m open to discussions about SRE / platform / infra roles, especially where a team needs help building a robust, developer-friendly platform.
